@@ -12,14 +12,14 @@ It is a learning platform.
 
 ## 2. Hardware
 
-##Core Devices##
+## **Core Devices
 - 1x Mini-Pc (Running pfSense | Router and Firewall).
 - 2x Juniper EX4200 switches.
 - 6U open rack.
 - Power distribution strip.
 - Home workstation (VMs).
 
-##Future Hardware## 
+## **Future Hardware 
 -  2 Raspberry Pis ( 1 for monitoring | 1 for a future project :) )
 -  Additional stroage/server VM host.
 

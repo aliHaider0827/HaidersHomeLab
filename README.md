@@ -24,3 +24,7 @@ It is a learning platform.
 -  Additional stroage/server VM host.
 
   
+Below is a demo of the rack made virtually:
+<img width="1528" height="1106" alt="image" src="https://github.com/user-attachments/assets/fb11e5aa-4e91-4dac-8a81-ab861b7eeb63" />
+
+
